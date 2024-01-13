@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+}
+
+.picture{
+    
+    border: 10px solid white;
+    margin: 40px;
+}
+
+.heading{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+
+.para{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
